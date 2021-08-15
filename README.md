@@ -1,0 +1,1 @@
+# This repo contains drafts of my Bash scripts
